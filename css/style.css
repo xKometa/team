@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+
+.body {
+  background: #403C3B;
+  margin: 0;
+}
+
+.header {
+  display: flex;
+  justify-content: space-around;
+  color: white;
+  align-items: center;
+  gap: 2rem;
+}
+
+.input {
+  width: 23.25rem;
+  height: 2.125rem;
+  background: #504B4A;
+  color: #CFCFCF;
+  border-radius: 10px;
+}
+
+.main {
+  background: url(../img/main.png);
+}
+
+/*# sourceMappingURL=style.css.map */
